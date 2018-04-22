@@ -1,6 +1,6 @@
 ## Digital Detectives Assignment 4
 
-For the Digital Detectives Assignment 4, we were asked to create a website using GitHub pages. This website has to include at least one paragraph describing the individual final project plan, which was written down for Assignment 3. Furthermore, the site has to contain at least one image and a JavaScript snippet. This page will hopefully show my success with GitHub Pages. 
+For the Digital Detectives Assignment 4, we were asked to create a website using GitHub pages. This website has to include at least one paragraph describing the individual final project plan, which was written for Assignment 3. Furthermore, the site has to contain at least one image and a JavaScript snippet. This page will hopefully show my success with GitHub Pages. 
 
 ### Project Concept: Developing an RPG Game
 
