@@ -17,3 +17,10 @@ For the Digital Detectives Assignment 4, we were asked to create a website using
 - 	http://i1-win.softpedia-static.com/screenshots/RPG-Maker-MV_1.jpg
 
 ### JavaScript Snippet 
+<script> 
+function change() 
+{
+    var elem = document.getElementById("myButton1");
+    if (elem.value=="Close Curtain") elem.value = "Open Curtain";
+    else elem.value = "Close Curtain";
+} </script>
