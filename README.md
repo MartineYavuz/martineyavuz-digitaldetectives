@@ -20,8 +20,7 @@ For the Digital Detectives Assignment 4, we were asked to create a website using
 <button id="textchanger"> Click me to change the text</button>
 <div id="firstDiv"> See what happens when you click this button </div>
 
-<script> 
 document.getElementById("textchanger").oneclick=function(){
 	document.getElementById("firstDiv".innerHTML)="The text has changed. Exciting, isn't it?";
 } 
-</script>
+
