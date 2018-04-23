@@ -17,10 +17,14 @@ For the Digital Detectives Assignment 4, we were asked to create a website using
 - 	http://i1-win.softpedia-static.com/screenshots/RPG-Maker-MV_1.jpg
 
 ### JavaScript Snippet 
-<button id="textchanger"> Click me to change the text</button>
-<div id="firstDiv"> See what happens when you click this button </div>
-<script>
-document.getElementById("textchanger").onclick=function(){
-	document.getElementById("firstDiv".innerHTML)="The text has changed. Exciting, isn't it?";
-} 
+<input type="button" value="Open Curtain" onclick="return change(this);" />
+
+<script type="text/javascript">
+function change( el )
+{
+    if ( el.value === "Open Curtain" )
+        el.value = "Close Curtain";
+    else
+        el.value = "Open Curtain";
+}
 </script>
