@@ -17,10 +17,11 @@ For the Digital Detectives Assignment 4, we were asked to create a website using
 - 	http://i1-win.softpedia-static.com/screenshots/RPG-Maker-MV_1.jpg
 
 ### JavaScript Snippet 
+<script>
 <button id="textchanger"> Click me to change the text</button>
 <div id="firstDiv"> See what happens when you click this button </div>
 
 document.getElementById("textchanger").oneclick=function(){
 	document.getElementById("firstDiv".innerHTML)="The text has changed. Exciting, isn't it?";
 } 
-
+</script>
