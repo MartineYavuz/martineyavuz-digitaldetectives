@@ -15,6 +15,7 @@ For the Digital Detectives Assignment 4, we were asked to create a website using
 -	https://www.digitaltrends.com/gaming/how-to-make-a-video-game/2/
 -	http://www.rpgmakerweb.com/products/programs/rpg-maker-vx-ace
 - 	http://i1-win.softpedia-static.com/screenshots/RPG-Maker-MV_1.jpg
+- 	https://stackoverflow.com/questions/10671174/changing-button-text-onclick
 
 ### JavaScript Snippet 
 <input type="button" value="Open Curtain" onclick="return change(this);" />
