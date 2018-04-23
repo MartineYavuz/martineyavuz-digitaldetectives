@@ -3,7 +3,6 @@
 For the Digital Detectives Assignment 4, we were asked to create a website using GitHub pages. This website has to include at least one paragraph describing the individual final project plan, which was written for Assignment 3. Furthermore, the site has to contain at least one image and a JavaScript snippet. This page will hopefully show my success with GitHub Pages. 
 
 ### Project Concept: Developing an RPG Game
-:video_game::video_game::video_game:
 
   ![Image of RPG Game](http://i1-win.softpedia-static.com/screenshots/RPG-Maker-MV_1.jpg)
   
@@ -12,7 +11,7 @@ For the Digital Detectives Assignment 4, we were asked to create a website using
 	  For the next stage of developing a final project, I need to think of an exact concept for the game I would like to create, and select the right software to do this. Therefore, it is necessary to look more into software recommendations on various websites.
 
 ### Bibliography
-:closed_book::closed_book::closed_book:
+
 -	https://www.digitaltrends.com/gaming/how-to-make-a-video-game/2/
 -	http://www.rpgmakerweb.com/products/programs/rpg-maker-vx-ace
 - 	http://i1-win.softpedia-static.com/screenshots/RPG-Maker-MV_1.jpg
